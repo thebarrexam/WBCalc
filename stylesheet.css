@@ -1,0 +1,103 @@
+body {
+	font-family: Futura;
+	font-size: 15px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 16.5px;
+	background-image: url("woodback.jpg");
+}
+
+h4 {
+	font-family: Futura;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 16.5px;
+}
+
+h1 {
+	color: white;
+	font-family: Futura;
+	font-size: 30px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 16.5px;
+	text-align: left;
+}
+
+p {
+	font-family: Futura;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 16.5px;
+}
+
+div.output {
+	border-style: solid;
+	border-color: #8c8c8c;
+	border-spacing: 30px 30px;
+	background-color: #ffb3b3;
+	width: 500px;
+	padding: 10px;
+
+
+}
+
+div.title {
+	
+	border-color: #8c8c8c;
+	border-spacing: 30px 30px;
+	background: linear-gradient( #ffb3b3, #ffe6e6);
+	width: 350px;
+	padding: 20px;
+	margin: 10px;
+	margin-right: 10px;
+	box-shadow: 10px 10px;
+	border-radius: 5px;
+	background-image: url("paper.jpg");
+
+}
+
+div.body {
+	border-color: #8c8c8c;
+	border-spacing: 30px 30px;
+	width: 250px;
+	padding: 20px;
+	align-self: center;
+	background: linear-gradient( #ffb3b3, #ffe6e6);
+	box-shadow: 10px 10px;
+	margin: 20px;
+	border-radius: 5px;
+	background-image: url("paper.jpg");
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+
+td {
+	
+    left: 10px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    vertical-align: left;
+
+}
+
+th {
+	
+    left: 30px;
+    padding: 10px;
+    margin: 20px;
+    background-color: #cccccc;
+
+}
+
+
